@@ -12,9 +12,15 @@
     margin-bottom: 5px;
 }
 .selecionado{
-    background-color: green;
-    
+    background-color: green; 
 }
 .negrito{
     font-weight: bold;
+}
+.lista{
+    width: 20px;
+    height: 20px;
+}
+.rodape{
+    text-align: center;
 }
